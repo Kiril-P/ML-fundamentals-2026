@@ -21,3 +21,9 @@ https://github.com/Kiril-P/ML-fundamentals-2026
 ## Assignment Notes
 - The notebook's first cell includes the GitHub repository link, as requested.
 - The final submitted PDF should come from the same executed notebook version that is pushed to GitHub.
+
+## AI Use Disclosure
+- Most of the project work was done locally before being pushed to GitHub.
+- On the last day, AI was used to generate an initial project template structure, which was pushed to GitHub to initialize the repository.
+- That initial AI-generated scaffold was later cleaned up manually.
+- AI was also used to help draft `README.md`.
