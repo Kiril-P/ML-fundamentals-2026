@@ -2,18 +2,28 @@
 __pycache__/
 *.py[cod]
 *.so
+.Python
 .venv/
 venv/
 env/
+.env
+.env.*
 .ipynb_checkpoints/
 .pytest_cache/
 .mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+.cache/
+.python-version
 .DS_Store
+.idea/
+.vscode/
 
-# Local data artifacts
+# Local artifacts
 *.log
 
-# Keep folders, not dataset payloads
+# Keep the project folder structure, but not raw/generated payloads
 data/raw/*
 !data/raw/.gitkeep
 data/processed/*
